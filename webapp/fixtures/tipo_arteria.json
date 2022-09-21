@@ -1,0 +1,26 @@
+[
+    {
+        "model": "webapp.tipo_arteria",
+        "pk": 1,
+        "fields": {
+            "nombre": "Autopista",
+            "estado": 1
+        }
+    },
+    {
+        "model": "webapp.tipo_arteria",
+        "pk": 2,
+        "fields": {
+            "nombre": "Avenida",
+            "estado": 1
+        }
+    },
+    {
+        "model": "webapp.tipo_arteria",
+        "pk": 3,
+        "fields": {
+            "nombre": "Caletera",
+            "estado": 1
+        }
+    }
+]

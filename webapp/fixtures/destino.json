@@ -1,0 +1,146 @@
+[
+    {
+        "model": "webapp.destino",
+        "pk": 1,
+        "fields": {
+            "nombre": "Vivienda",
+            "tipo": "destino",
+            "uso_suelo_id_id" : "1"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 2,
+        "fields": {
+            "nombre": "Hogares de acogida",
+            "tipo": "destino",
+            "uso_suelo_id_id" : "1"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 3,
+        "fields": {
+            "nombre": "Hospedaje",
+            "tipo": "destino",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 4,
+        "fields": {
+            "nombre": "Científico",
+            "tipo": "clase",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 5,
+        "fields": {
+            "nombre": "Comercio",
+            "tipo": "clase",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 6,
+        "fields": {
+            "nombre": "Culto y cultura",
+            "tipo": "clase",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 7,
+        "fields": {
+            "nombre": "Deporte",
+            "tipo": "clase",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 8,
+        "fields": {
+            "nombre": "Educación",
+            "tipo": "clase",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 9,
+        "fields": {
+            "nombre": "Esparcimiento",
+            "tipo": "clase",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 10,
+        "fields": {
+            "nombre": "Salud",
+            "tipo": "clase",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 11,
+        "fields": {
+            "nombre": "Seguridad",
+            "tipo": "clase",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 12,
+        "fields": {
+            "nombre": "Servicios",
+            "tipo": "clase",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 13,
+        "fields": {
+            "nombre": "Social",
+            "tipo": "clase",
+            "uso_suelo_id_id" : "2"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 14,
+        "fields": {
+            "nombre": "SIN_DESTINO",
+            "tipo": "SIN_DESTINO",
+            "uso_suelo_id_id" : "3"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 15,
+        "fields": {
+            "nombre": "SIN_DESTINO",
+            "tipo": "SIN_DESTINO",
+            "uso_suelo_id_id" : "4"
+        }
+    },
+    {
+        "model": "webapp.destino",
+        "pk": 16,
+        "fields": {
+            "nombre": "SIN_DESTINO",
+            "tipo": "SIN_DESTINO",
+            "uso_suelo_id_id" : "5"
+        }
+    }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "model": "webapp.usuario",
+    "pk": "14905763",
+    "fields": {
+      "rut_dv": "3",
+      "nombres": "Mauricio",
+      "ap_paterno": "araya",
+      "ap_materno": "h",
+      "direccion": "dir",
+      "estado": "1",
+      "cod_comuna": "13201"
+    }
+  },
+  {
+    "model": "webapp.documentos",
+    "pk": "1",
+    "fields": {
+      "nombre": "test documento"
+    }
+  },
+  {
+    "model": "webapp.documentos",
+    "pk": "2",
+    "fields": {
+      "nombre": "test documento"
+    }
+  },
+  {
+    "model": "webapp.documentos",
+    "pk": "3",
+    "fields": {
+      "nombre": "test documento"
+    }
+  },
+  {
+    "model": "webapp.documentos",
+    "pk": "4",
+    "fields": {
+      "nombre": "test documento"
+    }
+  },
+  {
+    "model": "webapp.documentos",
+    "pk": "5",
+    "fields": {
+      "nombre": "test documento"
+    }
+  },
+  {
+    "model": "webapp.persona_juridica",
+    "pk": "11111111",
+    "fields": {
+      "dv": "1",
+      "razon_social": "razon social test",
+      "direccion_via_id": "1",
+      "direccion": "direccion",
+      "direccion_numero": "6666",
+      "direccion_depto": "2b",
+      "comuna_cod_comuna": "13201",
+      "acto_constitutivo_documentos_id": "1",
+      "estado": "1"
+    }
+  },
+  {
+    "model": "webapp.persona_juridica",
+    "pk": "22222222",
+    "fields": {
+      "dv": "1",
+      "razon_social": "razon social test2",
+      "direccion_via_id": "1",
+      "direccion": "direccion",
+      "direccion_numero": "66662",
+      "direccion_depto": "2b",
+      "comuna_cod_comuna": "13201",
+      "acto_constitutivo_documentos_id": "1",
+      "estado": "1"
+    }
+  },
+  {
+    "model": "webapp.tipo_participante_empresa",
+    "pk": "1",
+    "fields": {
+      "nombre": "nombre tipo_participante_empresa"
+    }
+  },
+  {
+    "model": "webapp.persona_juridica_usuario",
+    "pk": "1",
+    "fields": {
+      "usuario_rut": "14905763",
+      "persona_juridica_rut": "11111111",
+      "tipo_participante_empresa_id": "1",
+      "estado": "1",
+      "documento_legal_documentos_id": "1"
+    }
+  },
+  {
+    "model": "webapp.persona_juridica_usuario",
+    "pk": "2",
+    "fields": {
+      "usuario_rut": "14905763",
+      "persona_juridica_rut": "22222222",
+      "tipo_participante_empresa_id": "1",
+      "estado": "1",
+      "documento_legal_documentos_id": "1"
+    }
+  }
+  
+]

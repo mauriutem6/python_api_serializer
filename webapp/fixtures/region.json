@@ -1,0 +1,146 @@
+[
+    {
+        "model": "webapp.Region",
+        "pk": 1,
+        "fields": {
+            "nombre": "Tarapacá",
+            "region_ordinal": "I",
+            "codigo_region": "1"
+        }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 2,
+      "fields": {
+        "nombre": "Antofagasta",
+        "region_ordinal": "II",
+        "codigo_region": "2"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 3,
+      "fields": {
+        "nombre": "Atacama",
+        "region_ordinal": "III",
+        "codigo_region": "3"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 4,
+      "fields": {
+        "nombre": "Coquimbo",
+        "region_ordinal": "IV",
+        "codigo_region": "4"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 5,
+      "fields": {
+        "nombre": "Valparaíso",
+        "region_ordinal": "V",
+        "codigo_region": "5"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 6,
+      "fields": {
+        "nombre": "Libertador General Bernardo O'Higgins",
+        "region_ordinal": "VI",
+        "codigo_region": "6"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 7,
+      "fields": {
+        "nombre": "Maule",
+        "region_ordinal": "VII",
+        "codigo_region": "7"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 8,
+      "fields": {
+        "nombre": "Biobío",
+        "region_ordinal": "VIII",
+        "codigo_region": "8"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 9,
+      "fields": {
+        "nombre": "La Araucanía",
+        "region_ordinal": "IX",
+        "codigo_region": "9"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 10,
+      "fields": {
+        "nombre": "Los Lagos",
+        "region_ordinal": "X",
+        "codigo_region": "10"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 11,
+      "fields": {
+        "nombre": "Aysén del General Carlos Ibáñez del Campo",
+        "region_ordinal": "XI",
+        "codigo_region": "11"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 12,
+      "fields": {
+        "nombre": "Magallanes y de la Antártica Chilena",
+        "region_ordinal": "XII",
+        "codigo_region": "12"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 13,
+      "fields": {
+        "nombre": "Metropolitana de Santiago",
+        "region_ordinal": "RM",
+        "codigo_region": "13"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 14,
+      "fields": {
+        "nombre": "Los Ríos",
+        "region_ordinal": "XIV",
+        "codigo_region": "14"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 15,
+      "fields": {
+        "nombre": "Arica y Parinacota",
+        "region_ordinal": "XV",
+        "codigo_region": "15"
+      }
+    },
+    {
+      "model": "webapp.Region",
+      "pk": 16,
+      "fields": {
+        "nombre": "Ñuble",
+        "region_ordinal": "XVI",
+        "codigo_region": "16"
+      }
+    }
+]

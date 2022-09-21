@@ -1,0 +1,91 @@
+[
+    {
+        "model": "webapp.vehiculos_equivalente",
+        "pk": "1",
+        "fields": {
+          "nombre": "Automóvil",
+          "factor": "1.0",
+          "estado": "0"
+        }
+      }
+      ,
+      {
+        "model": "webapp.vehiculos_equivalente",
+        "pk": "2",
+        "fields": {
+          "nombre": "Taxi",
+          "factor": "1.0",
+          "estado": "1"
+        }
+      }
+      ,
+      {
+        "model": "webapp.vehiculos_equivalente",
+        "pk": "3",
+        "fields": {
+          "nombre": "Taxibus (aprox. 8 m)",
+          "factor": "1.65",
+          "estado": "1"
+        }
+      }
+      ,
+      {
+        "model": "webapp.vehiculos_equivalente",
+        "pk": "4",
+        "fields": {
+          "nombre": "Bus (aprox. 12 m)",
+          "factor": "2.0",
+          "estado": "1"
+        }
+      }
+      ,
+      {
+        "model": "webapp.vehiculos_equivalente",
+        "pk": "5",
+        "fields": {
+          "nombre": "Bus articulado (aprox. 18 m)",
+          "factor": "3.0",
+          "estado": "1"
+        }
+      }
+      ,
+      {
+        "model": "webapp.vehiculos_equivalente",
+        "pk": "6",
+        "fields": {
+          "nombre": "AutomóvilCamión de 2 ejes",
+          "factor": "2.0",
+          "estado": "0"
+        }
+      }
+      ,
+      {
+        "model": "webapp.vehiculos_equivalente",
+        "pk": "7",
+        "fields": {
+          "nombre": "Camión de más de 2 ejes",
+          "factor": "2.5",
+          "estado": "0"
+        }
+      }
+      ,
+      {
+        "model": "webapp.vehiculos_equivalente",
+        "pk": "8",
+        "fields": {
+          "nombre": "Bicicletas y otros ciclos",
+          "factor": "0.3",
+          "estado": "0"
+        }
+      }
+      ,
+      {
+        "model": "webapp.vehiculos_equivalente",
+        "pk": "9",
+        "fields": {
+          "nombre": "Motocicletas",
+          "factor": "0.5",
+          "estado": "0"
+        }
+      }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "model": "webapp.direccion_via",
+        "pk": 1,
+        "fields": {
+            "nombre": "Expresas",
+            "estado": "1"
+        }
+    },
+    {
+        "model": "webapp.direccion_via",
+        "pk": 2,
+        "fields": {
+            "nombre": "Troncales",
+            "estado": "1"
+        }
+    },
+    {
+        "model": "webapp.direccion_via",
+        "pk": 3,
+        "fields": {
+            "nombre": "Colectoras",
+            "estado": "1"
+        }
+    },
+    {
+        "model": "webapp.direccion_via",
+        "pk": 4,
+        "fields": {
+            "nombre": "Servicio",
+            "estado": "1"
+        }
+    }
+]

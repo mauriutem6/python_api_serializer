@@ -1,0 +1,19 @@
+[
+    {
+        "model": "webapp.tipo_area",
+        "pk": 1,
+        "fields": {
+            "nombre": "Urbana",
+            "estado": "1"
+        }
+    },
+    {
+        "model": "webapp.tipo_area",
+        "pk": 2,
+        "fields": {
+            "nombre": "Rural",
+            "estado": "1"
+        }
+    }
+    
+]

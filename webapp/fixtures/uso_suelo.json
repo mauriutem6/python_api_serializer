@@ -1,0 +1,37 @@
+[
+    {
+        "model": "webapp.uso_suelo",
+        "pk": 1,
+        "fields": {
+            "nombre": "Residencial"
+        }
+    },
+    {
+        "model": "webapp.uso_suelo",
+        "pk": 2,
+        "fields": {
+            "nombre": "Equipamento"
+        }
+    },
+    {
+        "model": "webapp.uso_suelo",
+        "pk": 3,
+        "fields": {
+            "nombre": "Actividades Productivas"
+        }
+    },
+    {
+        "model": "webapp.uso_suelo",
+        "pk": 4,
+        "fields": {
+            "nombre": "Infraestructura"
+        }
+    },
+    {
+        "model": "webapp.uso_suelo",
+        "pk": 1,
+        "fields": {
+            "nombre": "Espacio Público y/o área verde"
+        }
+    }
+]
